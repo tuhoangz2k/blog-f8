@@ -1,0 +1,11 @@
+{
+  "name": "blog1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tuhoangz2k/blog-f8.git",
+  "author": "tu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
